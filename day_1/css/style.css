@@ -1,0 +1,25 @@
+body {
+  background-color: #681a93;
+  font-family: Ubuntu, "times new roman", times, roman, serif;
+}
+#center-message {
+  background-color: #1b191d;
+  position: fixed;
+  top: 35%;
+  left: 35%;
+}
+#paragraph-message {
+  color: #eee;
+}
+.heading-messages {
+  display: inline;
+}
+#first_heading {
+  color: #681a93;
+}
+#second_heading {
+  color: #eee;
+}
+#third_heading {
+  color: #681a93;
+}
